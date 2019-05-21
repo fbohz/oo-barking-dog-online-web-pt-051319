@@ -1,11 +1,11 @@
 # Your code goes here!
 class Dog 
   
-  def name=(dogs_name)
+  def name=(dogs_name) #sets var 
     @dogs_name = dogs_name
   end
   
-  def name
+  def name #getter returns var 
     @dogs_name
   end
   
